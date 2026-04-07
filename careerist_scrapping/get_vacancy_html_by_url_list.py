@@ -1,43 +1,10 @@
-import logging
 import os
-import time
 import selenium.webdriver as webdriver
 
-from datetime import datetime
+from utils import source_urls_file, html_folder
+from utils import create_logger, safe_write
 
-logger = logging.getLogger("parse_vacancy_list") 
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # чтобы вне зависимости от запуска создавать все внутри папки
-
-logs_folder = os.path.join(BASE_DIR, "logs") # папка для логов
-html_folder = os.path.join(BASE_DIR, "page_html") # сохраняется html страниц по мере парсинга для того чтобы если что по другому распарсить
-source_urls_file = os.path.join(BASE_DIR, "vacancy_links.txt")  # файл с ссылками на вакансии
-result_csv_file = os.path.join(BASE_DIR, "result.csv") # файл с результатами = таблицей с данными
-
-
-os.makedirs(logs_folder, exist_ok=True) # создаем папку, если ее еще нет
-os.makedirs(html_folder, exist_ok=True) # создаем папку, если ее еще нет
-
-
-logging.basicConfig(
-    filename=datetime.now().strftime(f"{logs_folder}/%Y-%m-%d_%H-%M-%S.log"), # создаем файл логов с текущем временем в имени
-    level=logging.INFO, 
-    # уровень логирования (debug, info, warning, error, critical), начиная с какого сохранять
-    # мы хотим INFO, так как иначе много логов от селениум набегает
-    format="%(asctime)s %(levelname)s %(message)s" # формат логов: время, уровень, сам текст
-)
-logger = logging.getLogger("parse_vacancy_list")
-
-
-def safe_write(file_name, content):
-    """
-    Безопасная запись в файл. Пишем в tmp файл, а потом заменяем.
-    Избегаем кейса, когда в момент записи программа упадет и файл затрется
-    """
-    tmp_file_name = file_name + ".tmp" # чтобы в случае внезапной остановки при записи данные сохранились
-    with open(tmp_file_name, mode="w", encoding="utf-8") as f:
-        f.write(content)
-    os.replace(tmp_file_name, file_name) # tmp на реальный файл заменяем
+logger = create_logger("get_vacancy_html_by_url_list")
 
 # with позволяет аккуратно работать с файлом, сразу же его закрывать после
 with open(source_urls_file, "r", encoding="utf-8") as f:
