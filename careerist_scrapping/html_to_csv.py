@@ -25,3 +25,15 @@ logger.info(f"Найдено {len(page_html_files)} html файлов для р�
 
 #     soup.find("div", {"class": "b-b-1 vacancyPageHeaderNew for-hdr-1"})
 
+html_file_name = page_html_files[0]
+html_file_path = os.path.join(html_folder, html_file_name)
+with open(html_file_path, "r", encoding="utf-8") as f:
+    html_content = f.read()
+
+soup = BeautifulSoup(html_content, "html.parser")
+
+slug = html_file_name.split(".")[0]
+profession = soup.find("div", {"class": "b-b-1 vacancyPageHeaderNew for-hdr-1"}).find("h1").text.strip()
+description = soup.find_all("div", {"class": "b-b-1"})[3].text.strip()
+
+print(slug, profession, description)
