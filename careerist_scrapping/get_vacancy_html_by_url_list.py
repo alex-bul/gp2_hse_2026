@@ -7,16 +7,20 @@ from datetime import datetime
 
 logger = logging.getLogger("parse_vacancy_list") 
 
-logs_folder = "logs" # папка для логов
-html_folder = "./page_html" # сохраняется html страниц по мере парсинга для того чтобы если что по другому распарсить
-source_urls_file = "vacancy_links.txt"  # файл с ссылками на вакансии
-result_csv_file = "./result.csv" # файл с результатами = таблицей с данными
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # чтобы вне зависимости от запуска создавать все внутри папки
+
+logs_folder = os.path.join(BASE_DIR, "logs") # папка для логов
+html_folder = os.path.join(BASE_DIR, "page_html") # сохраняется html страниц по мере парсинга для того чтобы если что по другому распарсить
+source_urls_file = os.path.join(BASE_DIR, "vacancy_links.txt")  # файл с ссылками на вакансии
+result_csv_file = os.path.join(BASE_DIR, "result.csv") # файл с результатами = таблицей с данными
 
 
 os.makedirs(logs_folder, exist_ok=True) # создаем папку, если ее еще нет
+os.makedirs(html_folder, exist_ok=True) # создаем папку, если ее еще нет
+
 
 logging.basicConfig(
-    filename=datetime.now().strftime(f"{logs_folder}/%Y-%m-%d_%H-%M-%S.txt"), # создаем файл логов с текущем временем в имени
+    filename=datetime.now().strftime(f"{logs_folder}/%Y-%m-%d_%H-%M-%S.log"), # создаем файл логов с текущем временем в имени
     level=logging.INFO, 
     # уровень логирования (debug, info, warning, error, critical), начиная с какого сохранять
     # мы хотим INFO, так как иначе много логов от селениум набегает
