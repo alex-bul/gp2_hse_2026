@@ -32,5 +32,5 @@ for url in urls:
     file_name = os.path.join(html_folder, page_slug) + ".html"
     safe_write(file_name, content)
     logger.info("Записано в " + file_name)
-    break
+    break #TODO
 
