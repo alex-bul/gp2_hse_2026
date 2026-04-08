@@ -3,8 +3,8 @@ import os
 
 from bs4 import BeautifulSoup
 
-from utils import html_folder, result_csv_file, csv_sep
-from utils import create_logger, safe_write
+from careerist_scrapping.parse_urls.utils import html_folder, result_csv_file, csv_sep
+from careerist_scrapping.parse_urls.utils import create_logger, safe_write
 
 logger = create_logger("parse_vacancy_html")
 

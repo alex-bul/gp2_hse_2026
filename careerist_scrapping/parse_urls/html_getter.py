@@ -4,8 +4,8 @@ import random
 
 import selenium.webdriver as webdriver
 
-from utils import source_urls_file, html_folder
-from utils import create_logger, safe_write
+from careerist_scrapping.parse_urls.utils import source_urls_file, html_folder
+from careerist_scrapping.parse_urls.utils import create_logger, safe_write
 
 logger = create_logger("get_vacancy_html_by_url_list")
 
