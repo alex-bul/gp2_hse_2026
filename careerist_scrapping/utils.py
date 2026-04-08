@@ -10,13 +10,14 @@ logs_folder = os.path.join(BASE_DIR, "logs") # папка для логов
 html_folder = os.path.join(BASE_DIR, "page_html") # сохраняется html страниц по мере парсинга для того чтобы если что по другому распарсить
 source_urls_file = os.path.join(BASE_DIR, "url_list.txt")  # файл с ссылками на вакансии
 
+csv_sep = ";" # все КРОМЕ запятой можно
 result_csv_file = os.path.join(BASE_DIR, "result.csv") # файл с результатами = таблицей с данными
 columns = ["slug", "profession", "salary", "firm_name", "city", "employment", "experience", "raw_description", "description", "date_published", "category"]
 
 # создаем если нет файла
-if not result_csv_file in os.listdir(BASE_DIR):
+if not os.path.exists(result_csv_file):
     with open(result_csv_file, "w", encoding="utf-8") as f:
-        f.write(",".join(columns) + "\n")
+        f.write(csv_sep.join(columns) + "\n")
 
 os.makedirs(logs_folder, exist_ok=True) # создаем папку, если ее еще нет
 os.makedirs(html_folder, exist_ok=True) # создаем папку, если ее еще нет
