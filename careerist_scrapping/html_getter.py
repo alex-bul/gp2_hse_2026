@@ -1,4 +1,7 @@
 import os
+import time
+import random
+
 import selenium.webdriver as webdriver
 
 from utils import source_urls_file, html_folder
@@ -18,19 +21,23 @@ urls = list(set(urls) - already_parsed_urls) # удаляем уже спарш�
 
 browser = webdriver.Chrome()
 
-for url in urls:
+for i, url in enumerate(urls):
+    logger.info(f"Шаг {i + 1} из {len(urls)}")
     logger.info("Открываю " + url)
     
-    browser.get(url)
-    content = browser.page_source
+    try:
+        browser.get(url)
+        content = browser.page_source
 
-    logger.info("Контент получен размера " + str(len(content)))
+        logger.info("Контент получен размера " + str(len(content)))
 
-    # оставляем только slug вакансии (slug = sistemnyy-administrator-junior-85981706)
-    page_slug = url.split("/")[-1].split('.')[0] 
-    
-    file_name = os.path.join(html_folder, page_slug) + ".html"
-    safe_write(file_name, content)
-    logger.info("Записано в " + file_name)
-    break #TODO
-
+        # оставляем только slug вакансии (slug = sistemnyy-administrator-junior-85981706)
+        page_slug = url.split("/")[-1].split('.')[0] 
+        logger.info("Slug вакансии: " + page_slug)
+        
+        file_name = os.path.join(html_folder, page_slug) + ".html"
+        safe_write(file_name, content)
+        logger.info("Записано в " + file_name)
+    except Exception as e:
+        logger.exception("Ошибка при обработке " + url)
+        time.sleep(random.randint(1, 5))
