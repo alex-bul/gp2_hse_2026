@@ -2,10 +2,10 @@
 
 Файлы распределены по логическим папкам
 
-careerist_scrapping - парсинг html с сайта https://careerist.ru/
-eda - EDA
-superjob_parsing - парсинг html с сайта https://superjob.ru/
-work_with_text - обогащение признаками по описанию + облако навыков профессий
+- careerist_scrapping - парсинг html с сайта https://careerist.ru/
+- eda - EDA
+- superjob_parsing - парсинг html с сайта https://superjob.ru/
+- work_with_text - обогащение признаками по описанию + облако навыков профессий
 
 В рамках Группового проекта №2 было сделано:
 
