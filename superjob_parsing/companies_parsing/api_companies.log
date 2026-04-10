@@ -1,0 +1,1679 @@
+INFO:root:Запрос к https://api.superjob.ru/2.0/catalogues/parent/33/
+INFO:root:С параметрами {'count': 100}
+INFO:root:Ответ: 200
+INFO:root:Запрос к https://api.superjob.ru/2.0/catalogues/parent/33/
+INFO:root:С параметрами {'count': 100}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:08:52.614422
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Python', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:01.053419
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Python', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:04.643290
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Python', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:05.883257
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Java', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:06.792410
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Java', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:08.097426
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'JavaScript', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:08.994122
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'JavaScript', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:10.226856
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Frontend', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:10.888994
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Frontend', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:12.100837
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Backend', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:13.009901
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Backend', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:14.261828
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Fullstack', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:14.937047
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Fullstack', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:16.181906
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'DevOps', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:17.057641
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'DevOps', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:18.304638
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Data Scientist', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:18.907019
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Аналитик данных', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:19.990607
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Аналитик данных', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:21.261221
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'ML Engineer', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:21.791032
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'QA', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:22.512325
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'QA', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:23.763292
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестировщик', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:25.264023
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестировщик', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:27.440186
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестировщик', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:29.611044
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестировщик', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:31.375515
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестировщик', 'count': 100, 'page': 4, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:32.898366
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Product Manager', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:33.935043
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Product Manager', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:35.326813
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Project Manager', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:35.925557
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Project Manager', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:37.199468
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'UI/UX', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:37.771414
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Дизайнер', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:38.680553
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Дизайнер', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:39.947107
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системный администратор', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:41.756217
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системный администратор', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:43.953340
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системный администратор', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:46.087634
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системный администратор', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:48.235233
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системный администратор', 'count': 100, 'page': 4, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:49.443495
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработчик', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:51.163999
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработчик', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:52.843219
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработчик', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:54.102408
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Программист', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:55.809025
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Программист', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:57.685382
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Программист', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:58.960383
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Android', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:09:59.706379
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Android', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:00.953804
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'iOS', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:01.700493
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'iOS', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:03.044553
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'React', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:03.679234
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'React', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:05.901884
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Vue', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:07.653906
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Vue', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:09.225101
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Angular', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:09.923830
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Angular', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:11.170858
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Node.js', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:11.873593
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Node.js', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:13.087395
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'PHP', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:13.865954
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'PHP', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:15.065467
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'C++', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:16.026611
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'C++', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:17.288242
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'C#', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:18.266975
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'C#', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:19.478497
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': '.NET', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:20.038640
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Go', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:20.700930
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Go', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:21.954636
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Golang', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:22.583094
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Golang', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:23.861441
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Kotlin', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:24.541484
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Kotlin', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:25.765472
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Swift', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:26.341656
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Data Engineer', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:27.052787
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Data Engineer', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:28.310997
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Business Analyst', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:29.024536
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Business Analyst', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:30.243488
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Scrum Master', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:30.751396
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'AI', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:31.708496
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'AI', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:33.568530
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'CRM-системы', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:34.444158
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'CRM-системы', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:35.935855
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Data Science', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:36.647416
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Data Science', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:37.882238
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'SRE', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:39.342967
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'SRE', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:41.649290
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'SRE', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:42.924622
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Web-верстка', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:43.533295
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Администрирование баз данных', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:45.146059
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Администрирование баз данных', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:46.841878
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Администрирование баз данных', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:48.068238
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Аналитика', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:49.512086
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Аналитика', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:50.742144
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Внедрение и сопровождение ПО', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:52.038942
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Внедрение и сопровождение ПО', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:53.288563
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Игровое ПО / Геймдев', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:53.899812
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Инжиниринг', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:54.561371
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Инжиниринг', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:55.807378
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Интернет, создание и поддержка сайтов', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:57.537319
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Интернет, создание и поддержка сайтов', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:10:59.755465
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Интернет, создание и поддержка сайтов', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:01.191150
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Интернет, создание и поддержка сайтов', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:02.508018
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Информационная безопасность', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:04.309197
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Информационная безопасность', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:07.405880
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Информационная безопасность', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:08.660209
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Киберспорт', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:09.351556
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Киберспорт', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:10.787599
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Компьютерная анимация и мультимедиа', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:11.366102
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Контент', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:12.392964
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Контент', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:13.628649
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Мобильная разработка', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:14.747681
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Мобильная разработка', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:16.021806
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Нейросети / Искусственный интеллект', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:16.952850
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Нейросети / Искусственный интеллект', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:18.255644
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Оптимизация, SEO', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:19.903366
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Оптимизация, SEO', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:22.361726
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Оптимизация, SEO', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:25.098423
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Оптимизация, SEO', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:27.653546
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Оптимизация, SEO', 'count': 100, 'page': 4, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:30.525552
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Передача данных и доступ в интернет', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:31.920393
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработка и сопровождение банковского ПО', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:32.581472
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработка и сопровождение банковского ПО', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:33.863160
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработка, программирование', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:35.651828
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработка, программирование', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:42.009643
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработка, программирование', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:44.074452
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработка, программирование', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:46.703805
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Разработка, программирование', 'count': 100, 'page': 4, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:48.749722
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Сетевые технологии', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:50.952721
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Сетевые технологии', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:53.010159
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Сетевые технологии', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:54.240191
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системная интеграция', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:55.217359
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системная интеграция', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:56.458803
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системное администрирование', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:57.731735
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системное администрирование', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:11:59.545962
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системное администрирование', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:00.821912
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системы автоматизированного проектирования (САПР)', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:01.426467
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системы автоматизированного проектирования (САПР)', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:02.694946
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системы управления предприятием (ERP)', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:03.627470
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Системы управления предприятием (ERP)', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:04.897647
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Сотовые, беспроводные технологии', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:06.050857
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Сотовые, беспроводные технологии', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:07.608234
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Телекоммуникации и связь', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:08.866302
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Телекоммуникации и связь', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:11.022767
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестирование', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:12.793255
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестирование', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:15.429480
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестирование', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:17.942299
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Тестирование', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:19.168947
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая документация', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:20.898292
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая документация', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:23.537248
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая документация', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:25.964733
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая документация', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:28.534915
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая документация', 'count': 100, 'page': 4, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:31.186436
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая поддержка', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:33.326439
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая поддержка', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:35.851945
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая поддержка', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:38.256879
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая поддержка', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:41.843609
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Техническая поддержка', 'count': 100, 'page': 4, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:43.610279
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление продуктом', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:45.566041
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление продуктом', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:46.778907
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление проектами', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:48.337417
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление проектами', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:50.567527
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление проектами', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:53.217601
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление проектами', 'count': 100, 'page': 3, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:55.973576
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление проектами', 'count': 100, 'page': 4, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:12:58.535846
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление разработкой', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:13:00.791712
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление разработкой', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:13:02.704573
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Управление разработкой', 'count': 100, 'page': 2, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:13:05.055147
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Юзабилити', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:13:05.770383
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Юзабилити', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:13:07.014805
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Начало карьеры', 'count': 100, 'page': 0, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:13:07.697799
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/vacancies/
+INFO:root:С параметрами {'keyword': 'Начало карьеры', 'count': 100, 'page': 1, 'c': 1, 'catalogues': 33, 'date_published_from': 1704067200}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:13:08.942312
+
+INFO:numexpr.utils:NumExpr defaulting to 2 threads.
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4887815/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:49.403106
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4942874/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:50.581983
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4944790/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:51.780409
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4905942/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:53.004289
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4907133/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:54.212189
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/11714/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:55.435859
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4932954/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:56.611358
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4944244/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:57.775797
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4944476/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:28:58.971219
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/874575/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:00.155954
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4957734/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:01.344103
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/14449/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:02.504004
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/191494/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:03.669296
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4959545/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:04.845945
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4959764/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:06.018513
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2963005/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:07.180811
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4961511/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:08.353397
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4962080/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:09.534012
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3046437/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:10.708337
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4243646/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:11.897714
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3845930/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:13.060397
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4070787/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:14.242654
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/237125/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:15.440441
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4959197/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:16.621801
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4905642/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:17.779264
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4904563/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:19.265400
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3595643/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:20.423419
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4346970/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:21.594323
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4859700/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:22.763633
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/267938/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:23.938443
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4959724/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:25.116843
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4961508/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:26.272581
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4952362/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:27.446825
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/89813/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:28.616026
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4922230/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:29.773624
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/235578/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:30.944861
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4876809/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:32.101180
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/173974/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:33.265173
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/291920/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:34.425334
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/13775/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:35.604183
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/154674/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:36.772846
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4894541/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:37.935452
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4959207/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:39.118253
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3758350/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:40.295585
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/860291/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:41.469016
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/272717/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:42.633115
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3597464/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:43.798154
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/108428/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:44.981428
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2914805/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:46.162313
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4953872/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:47.350443
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2464328/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:50.508679
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4564603/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:51.673189
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3551066/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:52.855995
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/35359/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:54.023865
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2722945/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:55.208557
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4412294/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:56.385629
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2962986/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:57.563518
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3599075/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:58.740937
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/1975482/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:29:59.904590
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/71817/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:01.063425
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/51445/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:02.245776
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2631007/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:03.409842
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3001379/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:04.837481
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4596048/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:06.012225
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/314091/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:07.355799
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4891649/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:08.676694
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/542741/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:09.837735
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/1977505/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:11.001426
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/15563/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:12.180816
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4763170/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:13.593113
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2756555/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:14.783373
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3959568/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:15.954034
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4273213/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:17.112334
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/678972/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:18.307097
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2416642/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:19.473780
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4451620/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:21.642473
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/335586/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:22.837952
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4918750/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:24.097264
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4140409/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:25.283735
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4853605/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:26.446367
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/298376/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:27.709418
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4572294/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:28.873921
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3974341/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:30.041525
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4745650/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:31.226179
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2727860/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:32.386796
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4353589/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:33.551853
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2230116/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:34.734946
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/196244/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:35.914695
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/528217/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:37.074523
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4029196/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:38.250242
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2081428/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:39.420950
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/514997/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:40.590550
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2063869/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:41.755197
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4954737/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:42.929088
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4398800/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:44.093269
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/100593/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:45.266854
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4942854/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:46.443392
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4957726/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:47.611263
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4960349/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:48.788465
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3117918/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:49.952785
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4230892/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:51.432095
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4882733/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:52.728282
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4957980/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:53.920597
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3538196/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:55.097206
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/38260/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:56.282229
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4957440/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:57.455676
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4451188/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:58.632653
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3316052/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:30:59.853180
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4535808/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:01.030629
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2466656/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:02.217052
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3440179/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:03.388625
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4236166/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:04.582439
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/289488/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:05.761675
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4941795/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:06.940242
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/24172/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:08.104187
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/267737/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:09.277013
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4901219/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:10.462487
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/400494/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:11.652622
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3776618/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:12.824579
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2985494/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:14.017695
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/14215/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:15.331485
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4469038/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:16.517970
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4902137/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:17.680404
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3382148/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:18.839043
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4935016/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:20.005576
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3797376/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:21.469408
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4961578/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:22.925198
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4419950/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:24.108025
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2635306/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:25.274465
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/139568/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:26.447661
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4961470/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:27.627256
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4821130/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:28.799655
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/178200/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:29.983616
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/441150/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:31.160034
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/1996534/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:32.346461
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3512555/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:33.519139
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2182657/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:34.702391
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2720788/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:35.884717
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4752322/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:37.058702
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/282394/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:38.210033
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4253438/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:39.384881
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/397825/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:40.548701
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4940742/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:41.733433
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/692390/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:42.901472
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3940185/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:44.075626
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4484806/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:45.259845
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3629294/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:46.443606
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4940258/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:47.631632
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4809124/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:48.810488
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/289082/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:50.123037
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4126093/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:51.675174
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4744563/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:53.253865
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3462139/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:54.428258
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4502734/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:55.599497
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4844568/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:56.753112
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/2531979/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:57.930367
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4743716/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:31:59.100634
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4942669/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:00.264105
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4580933/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:01.441472
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4450741/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:02.606592
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/3107146/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:03.791648
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4958617/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:04.954208
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4918378/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:06.141893
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/190718/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:07.320212
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/4832769/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:08.497478
+
+INFO:root:Запрос к https://api.superjob.ru/2.0/clients/202488/
+INFO:root:С параметрами {}
+INFO:root:Ответ: 200
+INFO:root:Сейчас 2026-04-09 22:32:09.662229
+
